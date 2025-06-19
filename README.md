@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, Welcome to My GitHub! 🚀</h1>
+<h3 align="center">Senior Web3 Engineer | Frontend & Full Stack | React, Next.js, TypeScript, NestJS | EVM & Solana | Wagmi, Viem, GraphQL, Solidity</h3>
 
-<!--
-**resplegend/resplegend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 A passionate **Senior Web3 Engineer** with expertise in designing and delivering modern, scalable, and high-performance decentralized applications.  
+🔹 Proficient in **React**, **Next.js**, **TypeScript**, and **NestJS** for building robust full-stack web solutions.  
+🔹 Specialized in **EVM & Solana** smart contract integration using **Wagmi**, **Viem**, **GraphQL**, and **Solidity**.  
+🔹 Advocate of open-source, composability, and decentralized architecture.  
+🔹 Focused on crafting seamless user experiences in the Web3 space.
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nestjs,nodejs,solidity,graphql,tailwind,html,css" /><br>
+  <img src="https://skillicons.dev/icons?i=viem,web3js,ethers,hardhat,foundry,solana,docker,postgresql,mongodb,aws" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,vercel,netlify,figma" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- 🔄 **Cross-Chain Swap**  
+  A bridge protocol supporting both EVM and non-EVM chains—including **Bitcoin**, **Solana**, and **Tron**—powered by an **MPC vault** and **Chainlink CCIP**.
+
+- 🧠 **Decentralized AI Agent Platform**  
+  A protocol where developers can publish AI agents, and users can interact with or select agents tailored to their personal or enterprise needs.
+
+- 🚀 **Blockchain Launchpad**  
+  Designed to simplify the deployment, management, and fundraising of new **crypto** and **DeFi** projects.
+
+- 🎯 **Missions Platform**  
+  A gamified engagement system encouraging users to complete tasks or missions in a decentralized environment, driving participation and retention.
+
+- 💬 **Telegram Mini App & Staking Dapp**  
+  Tools to boost community interaction and expand token utility, including integrated staking mechanisms.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=radical" alt="Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+> ⚡ Building the future of the internet, one block at a time.
