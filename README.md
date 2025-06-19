@@ -41,17 +41,3 @@
   Tools to boost community interaction and expand token utility, including integrated staking mechanisms.
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=radical" alt="Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
-> ⚡ Building the future of the internet, one block at a time.
