@@ -6,8 +6,8 @@
 ### 💡 About Me
 
 🔹 A passionate **Senior Web3 Engineer** with expertise in designing and delivering modern, scalable, and high-performance decentralized applications.  
-🔹 Proficient in **React**, **Next.js**, **TypeScript**, and **NestJS** for building robust full-stack web solutions.  
-🔹 Specialized in **EVM & Solana** smart contract integration using **Wagmi**, **Viem**, **GraphQL**, and **Solidity**.  
+🔹 Proficient in **React**, **Next.js**, **TypeScript**, and **Node.js** for building robust full-stack web solutions.  
+🔹 Specialized in **EVM & Solana** smart contract integration using **Wagmi**, **Viem**, **solana/web3.js**, **GraphQL**, **Solidity**, **Rust**.  
 🔹 Advocate of open-source, composability, and decentralized architecture.  
 🔹 Focused on crafting seamless user experiences in the Web3 space.
 
