@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcome to My GitHub! 🚀</h1>
-<h3 align="center">Senior Web3 Engineer | Frontend & Full Stack | React, Next.js, TypeScript, NestJS | EVM & Solana | Wagmi, Viem, GraphQL, Solidity</h3>
+<h3 align="center">Senior Web3 Engineer | Frontend & Full Stack | React, Next.js, TypeScript, Node.js | EVM & Solana | Wagmi, Viem, solana/web3.js, GraphQL, Solidity, Rust</h3>
 
 ---
 
