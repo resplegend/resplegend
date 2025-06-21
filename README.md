@@ -26,7 +26,7 @@
 ### 🚀 Featured Projects
 
 - 🔄 **Cross-Chain Swap**  
-  A bridge protocol supporting both EVM and non-EVM chains—including **Bitcoin**, **Solana**, and **Tron**—powered by an **MPC vault** and **Chainlink CCIP**.
+  A bridge protocol supporting both EVM and non-EVM chains—including **Bitcoin**, **Solana**, and **Tron**.
 
 - 🧠 **Decentralized AI Agent Platform**  
   A protocol where developers can publish AI agents, and users can interact with or select agents tailored to their personal or enterprise needs.
